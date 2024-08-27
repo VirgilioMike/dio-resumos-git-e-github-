@@ -10,7 +10,7 @@ Reposítório para armazenar resumos sobre o git e github do corso Versionamento
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no repositório local | [Resumos]()|
+| Gravando alterações no repositório local | [Resumo]()|
 
 ```
 git nit
